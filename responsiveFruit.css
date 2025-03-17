@@ -96,12 +96,12 @@
 }
 @media screen and (min-width: 1025px) and (max-width: 1550px) {
   .inner {
-    width: 70%;
+    width: 60%;
   }
   img {
     scale: 0.54;
   }
   h1 {
-    top: 2.5%;
+    top: 2%;
   }
 }

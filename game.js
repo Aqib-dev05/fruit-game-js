@@ -6,7 +6,7 @@ let score = 0;
 let miss = 3;
 
 //event listner
-container.addEventListener("mouseover", (e) => {
+container.addEventListener("click", (e) => {
   if (e.target.nodeName == "IMG") {
     score++;
     scoreDisplayer.innerText = score;
